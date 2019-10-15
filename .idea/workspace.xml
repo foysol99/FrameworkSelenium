@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae45c275-14ea-472e-a4ce-a174faeb08b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/OpenMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestBrands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestCustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftIdeas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestHomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestPriceMatchGuarantee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/TestAllCases.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bestbuy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/ExpediaRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/META-INF/Expedia.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/homepage/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/classes/homepage/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/META-INF/Expedia.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/AccountTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/ExtentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/ExtentTestManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/TestLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/TestLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
