@@ -1,7 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae45c275-14ea-472e-a4ce-a174faeb08b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/OpenMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestBrands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestCustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftIdeas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestHomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestPriceMatchGuarantee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/TestAllCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/Bestbuy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/ExpediaRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/META-INF/Expedia.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/classes/homepage/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/classes/homepage/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/META-INF/Expedia.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/report/TestLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/report/TestLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1Rzil0XTSzBZIpxEziXeSsp52lO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bestbuy" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bestbuy/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homepagetests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Bestbuy/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Bestbuy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/main/resources/bestbuyrunner.xml">
+    <configuration name="OpenMainPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomePageTestCases.OpenMainPage" />
+      <module name="Bestbuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomePageTestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTestCases.homepagetests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bestbuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomePageTestCases.homepagetests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomePageTestCases.homepagetests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bestbuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomePageTestCases.homepagetests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homepagetests" />
+      <option name="MAIN_CLASS_NAME" value="HomePageTestCases.homepagetests.Login" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAllCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bestbuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepagetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homepagetest" />
+      <option name="MAIN_CLASS_NAME" value="homepagetest.TestAllCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/main/resources/bestbuyrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bestbuy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/main/resources/bestbuyrunner.xml" />
+        <item itemvalue="TestNG.TestAllCases" />
+        <item itemvalue="TestNG.Login.login" />
+        <item itemvalue="TestNG.HomePageTestCases.homepagetests" />
+        <item itemvalue="Application.OpenMainPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae45c275-14ea-472e-a4ce-a174faeb08b8" name="Default Changelist" comment="" />
+      <created>1570676472545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570676472545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/OpenMainPage.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
