@@ -1,24 +1,36 @@
 package homepagetest;
 
-import HomePageTestCases.homepagetests.*;
+import HomePageTestCases.*;
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
 public class TestAllCases extends CommonAPI {
+
     Login login;
-    @Test
-    public void testLoginclass(){
-        Login login = PageFactory.initElements(driver,Login.class);
+
+    @BeforeMethod
+    public void initElements(){
+        login=PageFactory.initElements(driver,Login.class);
     }
     @Test
+    public void testLoginclass(){
+        login.loginSearchbar();
+    }
+
+
+    @Test@Ignore
     public void runLoginclass(){
-        login.login();
+        sleepFor(3);
+        //login.login();
     }
 
     TestBrands testBrands;
     @Test
     public void testTestBrandsclass(){
+        sleepFor(3);
         TestBrands testBrands = PageFactory.initElements(driver,TestBrands.class);
     }
     @Test
@@ -75,9 +87,10 @@ public class TestAllCases extends CommonAPI {
     TestServices testServices;
     @Test
     public void testTestService(){
+        sleepFor(3);
         TestServices testServices = PageFactory.initElements(driver,TestServices.class);
     }
-    @Test
+    @Test@Ignore
     public void runTestServicesclass(){
         testServices.ValueServices();
     }

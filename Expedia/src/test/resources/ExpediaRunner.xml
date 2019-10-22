@@ -14,7 +14,7 @@
 
     <test name="Automation tests">
         <classes>
-            <class name="homepageTest.SupportTest"/>
+            <class name="testHomepage.SupportTest"/>
         </classes>
     </test>
 </suite>

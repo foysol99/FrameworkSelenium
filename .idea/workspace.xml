@@ -2,13 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae45c275-14ea-472e-a4ce-a174faeb08b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/HomePagePOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/ShopperTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Expedia/src/test/java/testHomepage/ShopperTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/OpenMainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestBrands.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestBrands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestCustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestCustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestGiftCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestGiftIdeas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestGiftIdeas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestPriceMatchGuarantee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestPriceMatchGuarantee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/homepagetests/TestServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/TestServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/main/resources/bestbuyrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/test/resources/bestbuyrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/TestAllCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/TestAllCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/OpenMainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestBrands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestCustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestGiftCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestGiftIdeas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestHomepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestPriceMatchGuarantee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestProducts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/HomePageTestCases/homepagetests/TestServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/classes/bestbuyrunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bestbuy/target/test-classes/homepagetest/TestAllCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bestbuy/target/test-classes/homepagetest/TestAllCases.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/src/test/java/testHomepage/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/src/test/java/homepageTest/SupportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/src/test/java/testHomepage/SupportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/src/test/resources/ExpediaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/src/test/resources/ExpediaRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/Expedia-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/ExpediaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Expedia/target/test-classes/ExpediaRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expedia/target/test-classes/homepageTest/SupportTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FrameworkSelenium" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +90,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Bestbuy/src/test" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homepagetest" />
       <recent name="homepagetests" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -58,20 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/main/resources/bestbuyrunner.xml">
-    <configuration name="OpenMainPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomePageTestCases.OpenMainPage" />
-      <module name="Bestbuy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomePageTestCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/test/resources/bestbuyrunner.xml">
     <configuration name="HomePageTestCases.homepagetests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Bestbuy" />
       <extension name="coverage">
@@ -133,13 +176,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/test/resources/bestbuyrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Bestbuy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Bestbuy/src/test/resources/bestbuyrunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/test/resources/bestbuyrunner.xml" />
         <item itemvalue="TestNG./Users/foysolbhuiyan/Downloads/Framework-Selenium-master/Bestbuy/src/main/resources/bestbuyrunner.xml" />
         <item itemvalue="TestNG.TestAllCases" />
         <item itemvalue="TestNG.Login.login" />
         <item itemvalue="TestNG.HomePageTestCases.homepagetests" />
-        <item itemvalue="Application.OpenMainPage" />
       </list>
     </recent_temporary>
   </component>
@@ -172,9 +225,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Bestbuy/src/main/java/HomePageTestCases/OpenMainPage.java</url>
-          <line>9</line>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Bestbuy/src/test/java/homepagetest/TestAllCases.java</url>
+          <line>86</line>
+          <properties field="testServices" class="homepagetest.TestAllCases" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
